@@ -1,0 +1,16 @@
+@charset "utf-8";
+.navlist .navlistitem a {
+    color: #EACACB;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 500%;
+    text-align: left;
+    text-decoration: none;
+    border-color: #ECE6E6;
+}
+body h1 {
+    font-size: 79px;
+    color: #EBD7D7;
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
